@@ -1,3 +1,3 @@
 # DesignPatterns
-	* Creational Pattern
-		* Factory Pattern
+### 1. Creational Pattern
+####   Factory Pattern
