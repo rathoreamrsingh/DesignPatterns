@@ -1,4 +1,4 @@
 # DesignPatterns
 ### 1. Creational Pattern
-Factory Pattern
-Observer Pattern
+Factory Pattern<br/>
+Observer Pattern<br/>
